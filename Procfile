@@ -1,1 +1,1 @@
-
+worker: python Uploader.py
