@@ -1,0 +1,4 @@
+channels=san_trich, san_trich
+api_id=13823061
+api_hash=d9a371842b5dd4aa9bb557fd23ac44f4
+bot_token=6101993356:AAF7PTmVT0C9OgpxKdx67EwrnTeaTKj7Mtk
