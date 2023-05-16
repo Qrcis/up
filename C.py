@@ -333,7 +333,7 @@ auths = set([
 
 text = pyfiglet.figlet_format(text=f"Mr Null")
 
-text = rainbowtext.text(text)
+
 
 print(text) ## این قسمت متن رو بزرگ و رنگی می کنه !
 
